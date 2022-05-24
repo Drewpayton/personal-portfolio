@@ -1,5 +1,5 @@
 body {
-    background-color: #ede2cd;
+    background-color: #ede2cd !important;
 }
 
 
@@ -22,7 +22,7 @@ form {
             height: 90px;
             background: white;
  }
- 
+
 .form-submit {
 
     display: inline-flex;
