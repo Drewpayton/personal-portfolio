@@ -74,6 +74,10 @@ body a{
     margin-left: 50px !important;
 }
 
+.custom-picture-card-text h1 {
+    font-size: 80px !important;
+}
+
 
 
 
@@ -84,9 +88,9 @@ body a{
     }
 }
 
-@media screen and (max-width: 414px) {
+@media screen and (max-width: 770px) {
     .card img {
-        max-width: 100px;
+        max-width: 90px;
     }
 
     

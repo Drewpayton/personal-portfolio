@@ -1,0 +1,42 @@
+body {
+    background-color: #ede2cd;
+}
+
+
+form {
+    display: inline;
+    width: 90%;
+    max-width: 600px;
+    background-color: white;
+    box-shadow: 5px 5px 10px rgb(35, 35, 35);
+    padding: 10px;
+    
+}
+
+.form-submit {
+
+    display: inline-flex;
+    margin: auto;
+      margin-top: 250px; 
+      margin-left: 1000px; 
+      
+}
+
+textarea {
+    resize: none;
+}
+
+
+
+input {
+        border-top-style: hidden !important;
+        border-right-style: hidden !important;
+        border-left-style: hidden !important;
+        border-bottom-style: groove;
+        margin-top: 10px;
+        
+}
+
+input:hover {
+    border-bottom-color: royalblue;
+}
