@@ -1,3 +1,9 @@
 body {
     background-color: #ede2cd;
+    z-index: 0;
+}
+
+.card,
+ img {
+    border-radius: 50px !important; 
 }
